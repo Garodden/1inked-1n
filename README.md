@@ -78,7 +78,198 @@
 - 테스트 : 4/29 ~ 5/12
 - 발표 준비 : 5/12 ~ 5/15
 
-## 2. 기능 명세서
+## 2. 화면 설계서(Wireframe)
+[1inkend 1n 화면 설계(figma)](https://www.figma.com/design/4Ypf3cLJBIoLrJ3pAu1YRU/Final-Project?node-id=0-1&t=TKggU5nXcle1n5yc-0)
+
+|||
+|--------------------|---------------------|
+|<img src="https://github.com/Garodden/1inked-1n/assets/143177939/a9f09f49-c3b4-46ce-9542-a5dcae78f898"> <br/> 메인 페이지|<img src="https://github.com/Garodden/1inked-1n/assets/143177939/3ce230b0-1707-4f48-ad35-5f9e47d781c9"> <br/> 로그인 화면|
+|<img src="https://github.com/Garodden/1inked-1n/assets/143177939/1c88a47b-539a-4242-b08c-86cfc83143b4"> <br/> 회원 가입 화면|<img src="https://github.com/Garodden/1inked-1n/assets/143177939/a8868c5b-fa04-4481-a43d-811754426447"> <br/> 비밀번호 찾기 화면|
+|<img src="https://github.com/Garodden/1inked-1n/assets/143177939/0b180d0d-e8f1-4915-905d-d841b1cb2fe9"> <br/> 비밀번호 변경 화면|<img src="https://github.com/Garodden/1inked-1n/assets/143177939/ada1d08a-3401-4f99-a3fe-51cfc7514894"> <br/> 회원 탈퇴 화면|
+|<img src="https://github.com/Garodden/1inked-1n/assets/143177939/01bf3798-c195-44f1-b89d-fd3b7d39abe0"> <br/> 게시글 메인 화면 |<img src="https://github.com/Garodden/1inked-1n/assets/143177939/e4fbd005-4b37-4428-a3c5-2e34cf2ca0db"> <br/> 게시글 작성 화면|
+|<img src="https://github.com/Garodden/1inked-1n/assets/143177939/88ee9e28-9bc1-4e17-bc56-a93dc4911aa0"> <br/> 게시글 수정 화면|<img src="https://github.com/Garodden/1inked-1n/assets/143177939/1b3b549f-7f1b-45cf-adc5-bf6dd57293a6"> <br/> 쪽지 메인 화면|
+|<img src="https://github.com/Garodden/1inked-1n/assets/143177939/df3dbcc1-f30d-4167-b1cf-bb30c9ba1e4a"> <br/> 쪽지 보내기 화면 |<img src="https://github.com/Garodden/1inked-1n/assets/143177939/782ac7c3-cd4b-4c92-a497-6b27064e3f20"> <br/> 이력서 첨삭 화면|
+|<img src="https://github.com/Garodden/1inked-1n/assets/143177939/73ec97ce-4106-4d4c-acc8-fac6f2d7103e"> <br/> 뉴스 정보 화면 |<img src="https://github.com/Garodden/1inked-1n/assets/143177939/e7101420-5cff-476f-a13e-03cde129491e"> <br/> 마이 페이지 화면|
+|<img src="https://github.com/Garodden/1inked-1n/assets/143177939/0ca6ed8d-08c4-4293-8ac1-eb161c1dbaf7"> <br/>마이 페이지 아티클 조회 화면 |<img src="https://github.com/Garodden/1inked-1n/assets/143177939/4858e843-ae7a-48ff-9965-0e07a1809956"> <br/> 마이 페이지 댓글 조회 화면|
+|<img src="https://github.com/Garodden/1inked-1n/assets/143177939/adbe6c47-2231-4457-b535-814ace495f2a"> <br/> 마이 페이지 팔로우 조회 화면|<img src="https://github.com/Garodden/1inked-1n/assets/143177939/7717eedb-04fc-4ddf-9345-0057c9150b96"> <br/> 마이 페이지 이력서 조회 화면|
+|<img src="https://github.com/Garodden/1inked-1n/assets/143177939/f45f5916-9d6e-4d32-a806-f8d41891ffac"> <br/> 마이 페이지 이력서 상세 화면 |<img src="https://github.com/Garodden/1inked-1n/assets/143177939/0ece0d58-6af3-4a32-a564-28ff4dc01def"> <br/> 유저 페이지 화면 |
+|<img src="https://github.com/Garodden/1inked-1n/assets/143177939/35700ad4-4c2b-4a24-9e14-b8cff4ff238a"> <br/> 공통 헤더 ||
+
+## 3. 시연 영상 - 주요 기능 위주
+### 공통 - 헤더, 댓글, 대댓글 등 필수적이고 반복되는 기능 및 메인(랜딩)페이지
+
+#### 랜딩페이지 및 로그인
+<img width="100%" src="https://github.com/Garodden/1inked-1n/assets/154873151/89d33aa8-1542-4401-a9f1-87fb3bcbd43b"/>
+
+#### 댓글
+<img width="100%" src="https://github.com/Garodden/1inked-1n/assets/154873151/2f519028-ae1e-4f91-b705-2efcef19c6f9"/>
+
+#### 대댓글
+<img width="100%" src="https://github.com/Garodden/1inked-1n/assets/154873151/7f2485e7-bc23-4b2a-a54a-1f805d9bdf38"/>
+
+#### 헤더(페이지 이동)
+<img width="100%" src="https://github.com/Garodden/1inked-1n/assets/154873151/5791a33b-f7a5-451c-a74b-46aa0c9ffc0b"/>
+<br>
+
+### 마이 페이지(회원 관리) - 내가 작성한 게시글, 팔로우/팔로워, 저장한 resume 조회 기능
+<img width="100%" src="https://github.com/Garodden/1inked-1n/assets/154873151/0f333d8c-c692-4f86-aed3-b6c95072f67f"/>
+<br>
+
+### 시사 경제 정보 제공(외부 API 연동 - Naver News API)
+<img width="100%" src="https://github.com/Garodden/1inked-1n/assets/154873151/dba87626-bd77-4a51-9287-f5445f7d7f1a"/>
+
+<br>
+
+### Resume Review 페이지(Allen Ai 연동)
+<img width="100%" src="https://github.com/Garodden/1inked-1n/assets/154873151/adcece90-7446-44c3-b89e-49229c1e3711"/>
+
+<br>
+
+### 쪽지 기능(RestAPI(CRUD))
+<img width="100%" src="https://github.com/Garodden/1inked-1n/assets/154873151/e08762f8-4099-4862-ba8c-f7c969cf70f7"/>
+
+<br>
+
+
+## 4. 구조도 - 프로젝트, 시스템
+### 프로젝트 구조도
+
+<pre>
+<code>
+.
+├─front # Frontend 관련 디렉토리
+│  ├─.vite
+│  │  └─deps
+│  ├─public
+│  └─src
+│      ├─assets
+│      ├─components
+│      │  ├─Layout
+│      │  ├─svg
+│      │  └─ui
+│      ├─lib
+│      ├─routes
+│      └─utils
+├─main
+│  ├─java
+│  │  ├─com
+│  │  │  └─example
+│  │  │      └─oneinkedoneproject
+│  │  │          ├─AllenAiApi # AllenApi 관련 클래스 패키지
+│  │  │          ├─config # Swagger, Spring Security 관련 클래스 패키지
+│  │  │          ├─controller # 컨트롤러 클래스 패키지
+│  │  │          │  ├─AllenAi
+│  │  │          │  ├─Article
+│  │  │          │  ├─chat
+│  │  │          │  ├─comment
+│  │  │          │  ├─externalApi
+│  │  │          │  ├─follow
+│  │  │          │  ├─Image
+│  │  │          │  ├─password
+│  │  │          │  ├─resume
+│  │  │          │  └─user
+│  │  │          ├─domain # 도메인 클래스 패키지
+│  │  │          ├─dto # dto 클래스 패키지
+│  │  │          │  ├─article
+│  │  │          │  ├─auth
+│  │  │          │  ├─chat
+│  │  │          │  ├─externalApi
+│  │  │          │  ├─follow
+│  │  │          │  ├─image
+│  │  │          │  ├─resume
+│  │  │          │  └─user
+│  │  │          ├─filter # JWT 관련 클래스 패키지
+│  │  │          ├─repository # 레포지토리 클래스 패키지
+│  │  │          │  ├─article
+│  │  │          │  ├─chat
+│  │  │          │  ├─comment
+│  │  │          │  ├─follow
+│  │  │          │  ├─image
+│  │  │          │  ├─password
+│  │  │          │  ├─resume
+│  │  │          │  └─user
+│  │  │          ├─service # 서비스 클래스 패키지
+│  │  │          │  ├─AllenAi
+│  │  │          │  ├─article
+│  │  │          │  ├─auth
+│  │  │          │  ├─chat
+│  │  │          │  ├─comment
+│  │  │          │  ├─externalApi
+│  │  │          │  ├─follow
+│  │  │          │  ├─image
+│  │  │          │  ├─password
+│  │  │          │  ├─resume
+│  │  │          │  └─user
+│  │  │          └─utils #편의 기능(ex: UUID 추출) 관련 클래스 패키지
+│  │  └─util #UUID 생성 관련 클래스 패키지
+│  └─resources # application.yml 등 어플리케이션 관련 설정 클래스들
+└─test
+    └─java
+        └─com
+            └─example
+                └─oneinkedoneproject
+                    ├─AllenAi # Allen Api 테스트 클래스 패키지
+                    ├─controller # 컨트롤러 테스트 클래스 패키지
+                    │  └─follow
+                    ├─filter # jwt 테스트 클래스 패키지
+                    ├─repository # 레포지토리 테스트 클래스 패키지
+                    │  ├─article
+                    │  ├─chat
+                    │  ├─comment
+                    │  ├─follow
+                    │  ├─image
+                    │  ├─password
+                    │  ├─resume
+                    │  └─user
+                    ├─service # 서비스 테스트 클래스 패키지
+                    │  ├─chat
+                    │  ├─follow
+                    │  ├─password
+                    │  ├─resume
+                    │  └─user
+                    └─utils # 편의기능 테스트 클래스 패키지
+#appspec.yml : # CI/CD 관련 설정 클래스
+#build.gradle : # 의존성과 같은 환경설정 클래스 (gradle로 작성)
+</code>
+</pre>
+
+
+###  시스템 구성도
+
+<p align="center">
+  <img src="https://github.com/Garodden/1inked-1n/assets/143177939/2d6b46ae-f2df-4dea-8f8a-cd44a11cbb2f">
+</p>
+
+## 5. 데이터베이스(ERD)
+
+<p align="center">
+  <img src="https://github.com/Garodden/1inked-1n/assets/143177939/48625d37-1e4c-4766-9f25-19086b675456">
+</p>
+
+## 6. API 명세서
+
+### 공통 - 헤더, 댓글, 대댓글 등 필수적이고 반복되는 기능 및 메인(랜딩)페이지
+<img src="https://github.com/Garodden/1inked-1n/assets/143177939/42e1f742-810c-4394-8764-e10666180c6c">
+<img src="https://github.com/Garodden/1inked-1n/assets/143177939/7e267afe-4fd5-48e5-9c49-bf0be0acc3cb">
+
+### 회원 관리 - 로그인, 회원가입, 비밀번호 찾기, 비밀번호 변경하기, 회원 탈퇴, 마이페이지
+<img src="https://github.com/Garodden/1inked-1n/assets/143177939/5b2c2e8b-9c4e-43b0-a23d-c4a9f4054932">
+<img src="https://github.com/Garodden/1inked-1n/assets/143177939/faa46fc4-94a5-47ec-ade0-830b2ae60670">
+<img src="https://github.com/Garodden/1inked-1n/assets/143177939/1d5f82b7-9a26-470d-be05-8788573a1c5d">
+
+### 외부 API 연동 - 네이버 뉴스 API 연동으로 인한 정보 제공 페이지
+<img src="https://github.com/Garodden/1inked-1n/assets/143177939/6365f1a9-6030-4b95-bfb6-38de688ec89c">
+
+### 앨런 AI 연동 - AI가 유저의 Resume를 분석해주는 페이지
+<img src="https://github.com/Garodden/1inked-1n/assets/143177939/7656f927-a397-4349-b3ec-218ecb76c34e">
+
+### RestAPI(CRUD) - 내가 팔로우한 사람들의 게시글을 볼 수 있는 팔로우 피드 페이지, 쪽지를 주고받는 쪽지 페이지
+<img src="https://github.com/Garodden/1inked-1n/assets/143177939/2b7fc274-0696-4cbd-b326-2bc7048d2a7d">
+<img src="https://github.com/Garodden/1inked-1n/assets/143177939/19a96e23-23e3-4915-82fa-911cf76010d9">
+<img src="https://github.com/Garodden/1inked-1n/assets/143177939/4fabdff1-8a31-4da1-b0fb-0deb2db60612">
+<img src="https://github.com/Garodden/1inked-1n/assets/143177939/8efb2c85-2aea-404e-b7ee-aad05f295686">
+
+## 7. 기능 명세서
 [1inked 1n 기능 정의서](https://www.notion.so/oreumi/277fcbe54a704fa5bdef217d0d61f6f0)
 
 ### 공통 - 헤더, 댓글, 대댓글 등 필수적이고 반복되는 기능 및 메인(랜딩)페이지
@@ -208,198 +399,6 @@
 |               | | 삭제 버튼 | | | 상대방과의 쪽지 삭제 요청 |   
 |               | | 쪽지 내용 입력 | 쪽지 내용 | | 쪽지 보내 버튼에 의해 활성화 |   
 |               | | 쪽지 전송 버튼 | | | 서버에 쪽지 생성 요청 |
-
-
-## 3. 화면 설계서(Wireframe)
-[1inkend 1n 화면 설계(figma)](https://www.figma.com/design/4Ypf3cLJBIoLrJ3pAu1YRU/Final-Project?node-id=0-1&t=TKggU5nXcle1n5yc-0)
-
-|||
-|--------------------|---------------------|
-|<img src="https://github.com/Garodden/1inked-1n/assets/143177939/a9f09f49-c3b4-46ce-9542-a5dcae78f898"> <br/> 메인 페이지|<img src="https://github.com/Garodden/1inked-1n/assets/143177939/3ce230b0-1707-4f48-ad35-5f9e47d781c9"> <br/> 로그인 화면|
-|<img src="https://github.com/Garodden/1inked-1n/assets/143177939/1c88a47b-539a-4242-b08c-86cfc83143b4"> <br/> 회원 가입 화면|<img src="https://github.com/Garodden/1inked-1n/assets/143177939/a8868c5b-fa04-4481-a43d-811754426447"> <br/> 비밀번호 찾기 화면|
-|<img src="https://github.com/Garodden/1inked-1n/assets/143177939/0b180d0d-e8f1-4915-905d-d841b1cb2fe9"> <br/> 비밀번호 변경 화면|<img src="https://github.com/Garodden/1inked-1n/assets/143177939/ada1d08a-3401-4f99-a3fe-51cfc7514894"> <br/> 회원 탈퇴 화면|
-|<img src="https://github.com/Garodden/1inked-1n/assets/143177939/01bf3798-c195-44f1-b89d-fd3b7d39abe0"> <br/> 게시글 메인 화면 |<img src="https://github.com/Garodden/1inked-1n/assets/143177939/e4fbd005-4b37-4428-a3c5-2e34cf2ca0db"> <br/> 게시글 작성 화면|
-|<img src="https://github.com/Garodden/1inked-1n/assets/143177939/88ee9e28-9bc1-4e17-bc56-a93dc4911aa0"> <br/> 게시글 수정 화면|<img src="https://github.com/Garodden/1inked-1n/assets/143177939/1b3b549f-7f1b-45cf-adc5-bf6dd57293a6"> <br/> 쪽지 메인 화면|
-|<img src="https://github.com/Garodden/1inked-1n/assets/143177939/df3dbcc1-f30d-4167-b1cf-bb30c9ba1e4a"> <br/> 쪽지 보내기 화면 |<img src="https://github.com/Garodden/1inked-1n/assets/143177939/782ac7c3-cd4b-4c92-a497-6b27064e3f20"> <br/> 이력서 첨삭 화면|
-|<img src="https://github.com/Garodden/1inked-1n/assets/143177939/73ec97ce-4106-4d4c-acc8-fac6f2d7103e"> <br/> 뉴스 정보 화면 |<img src="https://github.com/Garodden/1inked-1n/assets/143177939/e7101420-5cff-476f-a13e-03cde129491e"> <br/> 마이 페이지 화면|
-|<img src="https://github.com/Garodden/1inked-1n/assets/143177939/0ca6ed8d-08c4-4293-8ac1-eb161c1dbaf7"> <br/>마이 페이지 아티클 조회 화면 |<img src="https://github.com/Garodden/1inked-1n/assets/143177939/4858e843-ae7a-48ff-9965-0e07a1809956"> <br/> 마이 페이지 댓글 조회 화면|
-|<img src="https://github.com/Garodden/1inked-1n/assets/143177939/adbe6c47-2231-4457-b535-814ace495f2a"> <br/> 마이 페이지 팔로우 조회 화면|<img src="https://github.com/Garodden/1inked-1n/assets/143177939/7717eedb-04fc-4ddf-9345-0057c9150b96"> <br/> 마이 페이지 이력서 조회 화면|
-|<img src="https://github.com/Garodden/1inked-1n/assets/143177939/f45f5916-9d6e-4d32-a806-f8d41891ffac"> <br/> 마이 페이지 이력서 상세 화면 |<img src="https://github.com/Garodden/1inked-1n/assets/143177939/0ece0d58-6af3-4a32-a564-28ff4dc01def"> <br/> 유저 페이지 화면 |
-|<img src="https://github.com/Garodden/1inked-1n/assets/143177939/35700ad4-4c2b-4a24-9e14-b8cff4ff238a"> <br/> 공통 헤더 ||
-
-## 4. 시연 영상 - 주요 기능 위주
-### 공통 - 헤더, 댓글, 대댓글 등 필수적이고 반복되는 기능 및 메인(랜딩)페이지
-
-#### 랜딩페이지 및 로그인
-<img width="100%" src="https://github.com/Garodden/1inked-1n/assets/154873151/89d33aa8-1542-4401-a9f1-87fb3bcbd43b"/>
-
-#### 댓글
-<img width="100%" src="https://github.com/Garodden/1inked-1n/assets/154873151/2f519028-ae1e-4f91-b705-2efcef19c6f9"/>
-
-#### 대댓글
-<img width="100%" src="https://github.com/Garodden/1inked-1n/assets/154873151/7f2485e7-bc23-4b2a-a54a-1f805d9bdf38"/>
-
-#### 헤더(페이지 이동)
-<img width="100%" src="https://github.com/Garodden/1inked-1n/assets/154873151/5791a33b-f7a5-451c-a74b-46aa0c9ffc0b"/>
-<br>
-
-### 마이 페이지(회원 관리) - 내가 작성한 게시글, 팔로우/팔로워, 저장한 resume 조회 기능
-<img width="100%" src="https://github.com/Garodden/1inked-1n/assets/154873151/0f333d8c-c692-4f86-aed3-b6c95072f67f"/>
-<br>
-
-### 시사 경제 정보 제공(외부 API 연동 - Naver News API)
-<img width="100%" src="https://github.com/Garodden/1inked-1n/assets/154873151/dba87626-bd77-4a51-9287-f5445f7d7f1a"/>
-
-<br>
-
-### Resume Review 페이지(Allen Ai 연동)
-<img width="100%" src="https://github.com/Garodden/1inked-1n/assets/154873151/adcece90-7446-44c3-b89e-49229c1e3711"/>
-
-<br>
-
-### 쪽지 기능(RestAPI(CRUD))
-<img width="100%" src="https://github.com/Garodden/1inked-1n/assets/154873151/e08762f8-4099-4862-ba8c-f7c969cf70f7"/>
-
-<br>
-
-
-## 5. 구조도 - 프로젝트, 시스템
-### 프로젝트 구조도
-
-<pre>
-<code>
-.
-├─front # Frontend 관련 디렉토리
-│  ├─.vite
-│  │  └─deps
-│  ├─public
-│  └─src
-│      ├─assets
-│      ├─components
-│      │  ├─Layout
-│      │  ├─svg
-│      │  └─ui
-│      ├─lib
-│      ├─routes
-│      └─utils
-├─main
-│  ├─java
-│  │  ├─com
-│  │  │  └─example
-│  │  │      └─oneinkedoneproject
-│  │  │          ├─AllenAiApi # AllenApi 관련 클래스 패키지
-│  │  │          ├─config # Swagger, Spring Security 관련 클래스 패키지
-│  │  │          ├─controller # 컨트롤러 클래스 패키지
-│  │  │          │  ├─AllenAi
-│  │  │          │  ├─Article
-│  │  │          │  ├─chat
-│  │  │          │  ├─comment
-│  │  │          │  ├─externalApi
-│  │  │          │  ├─follow
-│  │  │          │  ├─Image
-│  │  │          │  ├─password
-│  │  │          │  ├─resume
-│  │  │          │  └─user
-│  │  │          ├─domain # 도메인 클래스 패키지
-│  │  │          ├─dto # dto 클래스 패키지
-│  │  │          │  ├─article
-│  │  │          │  ├─auth
-│  │  │          │  ├─chat
-│  │  │          │  ├─externalApi
-│  │  │          │  ├─follow
-│  │  │          │  ├─image
-│  │  │          │  ├─resume
-│  │  │          │  └─user
-│  │  │          ├─filter # JWT 관련 클래스 패키지
-│  │  │          ├─repository # 레포지토리 클래스 패키지
-│  │  │          │  ├─article
-│  │  │          │  ├─chat
-│  │  │          │  ├─comment
-│  │  │          │  ├─follow
-│  │  │          │  ├─image
-│  │  │          │  ├─password
-│  │  │          │  ├─resume
-│  │  │          │  └─user
-│  │  │          ├─service # 서비스 클래스 패키지
-│  │  │          │  ├─AllenAi
-│  │  │          │  ├─article
-│  │  │          │  ├─auth
-│  │  │          │  ├─chat
-│  │  │          │  ├─comment
-│  │  │          │  ├─externalApi
-│  │  │          │  ├─follow
-│  │  │          │  ├─image
-│  │  │          │  ├─password
-│  │  │          │  ├─resume
-│  │  │          │  └─user
-│  │  │          └─utils #편의 기능(ex: UUID 추출) 관련 클래스 패키지
-│  │  └─util #UUID 생성 관련 클래스 패키지
-│  └─resources # application.yml 등 어플리케이션 관련 설정 클래스들
-└─test
-    └─java
-        └─com
-            └─example
-                └─oneinkedoneproject
-                    ├─AllenAi # Allen Api 테스트 클래스 패키지
-                    ├─controller # 컨트롤러 테스트 클래스 패키지
-                    │  └─follow
-                    ├─filter # jwt 테스트 클래스 패키지
-                    ├─repository # 레포지토리 테스트 클래스 패키지
-                    │  ├─article
-                    │  ├─chat
-                    │  ├─comment
-                    │  ├─follow
-                    │  ├─image
-                    │  ├─password
-                    │  ├─resume
-                    │  └─user
-                    ├─service # 서비스 테스트 클래스 패키지
-                    │  ├─chat
-                    │  ├─follow
-                    │  ├─password
-                    │  ├─resume
-                    │  └─user
-                    └─utils # 편의기능 테스트 클래스 패키지
-#appspec.yml : # CI/CD 관련 설정 클래스
-#build.gradle : # 의존성과 같은 환경설정 클래스 (gradle로 작성)
-</code>
-</pre>
-
-
-###  시스템 구성도
-
-<p align="center">
-  <img src="https://github.com/Garodden/1inked-1n/assets/143177939/2d6b46ae-f2df-4dea-8f8a-cd44a11cbb2f">
-</p>
-
-## 6. 데이터베이스(ERD)
-
-<p align="center">
-  <img src="https://github.com/Garodden/1inked-1n/assets/143177939/48625d37-1e4c-4766-9f25-19086b675456">
-</p>
-
-## 7. API 명세서
-
-### 공통 - 헤더, 댓글, 대댓글 등 필수적이고 반복되는 기능 및 메인(랜딩)페이지
-<img src="https://github.com/Garodden/1inked-1n/assets/143177939/42e1f742-810c-4394-8764-e10666180c6c">
-<img src="https://github.com/Garodden/1inked-1n/assets/143177939/7e267afe-4fd5-48e5-9c49-bf0be0acc3cb">
-
-### 회원 관리 - 로그인, 회원가입, 비밀번호 찾기, 비밀번호 변경하기, 회원 탈퇴, 마이페이지
-<img src="https://github.com/Garodden/1inked-1n/assets/143177939/5b2c2e8b-9c4e-43b0-a23d-c4a9f4054932">
-<img src="https://github.com/Garodden/1inked-1n/assets/143177939/faa46fc4-94a5-47ec-ade0-830b2ae60670">
-<img src="https://github.com/Garodden/1inked-1n/assets/143177939/1d5f82b7-9a26-470d-be05-8788573a1c5d">
-
-### 외부 API 연동 - 네이버 뉴스 API 연동으로 인한 정보 제공 페이지
-<img src="https://github.com/Garodden/1inked-1n/assets/143177939/6365f1a9-6030-4b95-bfb6-38de688ec89c">
-
-### 앨런 AI 연동 - AI가 유저의 Resume를 분석해주는 페이지
-<img src="https://github.com/Garodden/1inked-1n/assets/143177939/7656f927-a397-4349-b3ec-218ecb76c34e">
-
-### RestAPI(CRUD) - 내가 팔로우한 사람들의 게시글을 볼 수 있는 팔로우 피드 페이지, 쪽지를 주고받는 쪽지 페이지
-<img src="https://github.com/Garodden/1inked-1n/assets/143177939/2b7fc274-0696-4cbd-b326-2bc7048d2a7d">
-<img src="https://github.com/Garodden/1inked-1n/assets/143177939/19a96e23-23e3-4915-82fa-911cf76010d9">
-<img src="https://github.com/Garodden/1inked-1n/assets/143177939/4fabdff1-8a31-4da1-b0fb-0deb2db60612">
-<img src="https://github.com/Garodden/1inked-1n/assets/143177939/8efb2c85-2aea-404e-b7ee-aad05f295686">
 
 
 ## 기타 -📐 코딩 컨벤션
